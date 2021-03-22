@@ -9,6 +9,8 @@ The task consists of the following
 * _id  
 * goal
 * goal_type
+* points_in
+* points_out
 * status
 * userid
 * corpid
