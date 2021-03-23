@@ -21,7 +21,7 @@ The task consists of the following
 2 - create a branch and let its name be your email address or whatsapp number  
 3 - make a pull request with your branch  
 4 - if you could deploy your code at any static content free host like 000webhost add the link to your hosted solution in the reamde file in  your branch  
-5 - if you find any problems or need any help, send an email with the title "data-visualization-test" to freelancers@marketune.com and include your branch name in the email in case you made the pull request
+5 - if you find any problems or need any help, send an email with the title "data-visualization-test" to freelancers.marketune@gmail.com and include your branch name in the email in case you made the pull request
 
 ### APIs to use
 *the data returned by these apis might be helpful along with the 'createdAt' field in the documents returned by the getData endpoint*
