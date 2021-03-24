@@ -8,7 +8,7 @@ The task consists of the following
 4 - **Bonus**: let the viewer filter the data by a specific date using the createdAt field  
 5- json object fields that can exist in documents  
 
-_Note_: _the data is not strictly structured the goal object for example can a subdocument or as given below_   
+_Note_: _the data is not strictly structured the goal object for example can be a subdocument or as given below_   
 * _id  
 * goal (can be an object that has (goal_type,points_in,points_out))
 * goal_type
